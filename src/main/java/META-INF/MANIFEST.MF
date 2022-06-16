@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Main-Class: Launch.GUIStarter
+Class-Path: javafx-fxml-18.0.1-mac.jar apiguardian-api-1.1.2.jar junit-p
+ latform-engine-1.8.2.jar antlr-3.0b5.jar javafx-controls-18.0.1.jar jav
+ afx-fxml-18.0.1.jar bootstrapfx-core-0.4.0.jar javafx-controls-18.0.1-m
+ ac.jar javafx-base-18.0.1.jar junit-jupiter-engine-5.8.2.jar junit-jupi
+ ter-api-5.8.2.jar controlsfx-11.1.1.jar javafx-graphics-18.0.1.jar stri
+ ngtemplate-3.0.jar junit-platform-commons-1.8.2.jar gson-2.9.0.jar java
+ fx-base-18.0.1-mac.jar opentest4j-1.2.0.jar formsfx-core-11.5.0.jar jav
+ afx-graphics-18.0.1-mac.jar
+
